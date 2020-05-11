@@ -1,0 +1,15 @@
+01. index page.
+02. about us page.
+03. contact us page.
+04. category page.
+05. category details.
+06. search page.
+07. post page.
+08. post details page.
+09. privet policy.
+10. terms and condition page.
+11. archive page.
+12. advertise page.
+13. service page.
+14. start here page.
+15.404 page.
